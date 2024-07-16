@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Pittsburgh, PA based trying to work on python health data exports from watch and such.
+
+Coding goal would be to work on blood glucose monitoring on a watch.
+
+Currently unemployed so feel free to reach out. Specialties are in supply chain management and data science.
 <!--
 **jtb21091/jtb21091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
