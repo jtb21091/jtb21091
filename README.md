@@ -11,3 +11,5 @@ Currently unemployed so feel free to reach out. Specialties are in supply chain 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtb21091&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtb21091&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtb21091)](https://github.com/jtb21091/github-readme-stats)
