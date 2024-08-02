@@ -7,3 +7,5 @@ Currently unemployed so feel free to reach out. Specialties are in supply chain 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jtb21091)](https://github.com/jtb21091/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtb21091&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtb21091&show_icons=true)
