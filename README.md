@@ -1,6 +1,6 @@
 ## Hello
 
-[Linkedin](linkedin.com/joshuathomasbrooks)
+[Linkedin]([linkedin.com/joshuathomasbrook](https://www.linkedin.com/in/joshuathomasbrooks/))
 
 Coding goal would be to work on blood glucose monitoring on a watch.
 
