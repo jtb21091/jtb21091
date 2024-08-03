@@ -6,4 +6,4 @@ Specialties are in supply chain management and data science.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtb21091&layout=pie)](https://github.com/jtb21091/github-readme-stats)
 
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[joshuathomasbrooks]" />
+<img src="[[YOUR_VERCEL_PROJECT_DOMAIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]/[METHOD]?username=[joshuathomasbrooks]" />
