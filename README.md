@@ -1,6 +1,6 @@
 ## Hello
 
-[Connect with me](https://www.linkedin.com/in/joshuathomasbrooks/)
+<a href="https://www.linkedin.com/in/joshuathomasbrooks/" target="_blank" rel="noopener noreferrer">Connect with me on Linkedin</a>
 
 Coding goal would be to work on blood glucose monitoring on a watch.
 
