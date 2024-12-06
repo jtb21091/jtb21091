@@ -1,6 +1,6 @@
 ## Hello
 
-<a href="https://www.linkedin.com/in/joshuathomasbrooks/" target="_blank" rel="noopener noreferrer">Connect with me on Linkedin</a>
+<a href="https://www.linkedin.com/in/joshuathomasbrooks/" onclick="window.open(this.href, '_blank'); return false;">Connect with me on Linkedin</a>
 
 Coding goal would be to work on blood glucose monitoring on a watch.
 
