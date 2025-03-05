@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm passionate about developing **blood glucose monitoring technology on smartwatches**.  
+I'm passionate about developing **blood glucose monitoring technology on smartwatches and other non-invasive ways**.  
 
 My expertise lies in **supply chain management and data science**.
 
